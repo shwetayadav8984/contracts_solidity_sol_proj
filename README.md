@@ -1,1 +1,1 @@
-# contracts_solidity_sol_proj..
+# contracts_solidity_sol_proj
